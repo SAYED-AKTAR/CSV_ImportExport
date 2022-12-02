@@ -127,3 +127,20 @@
     filter: invert(1);
   }
 }
+
+/* CSS Defined By SK SAYED AKTAR */
+.innerForm{
+  background-color: rgb(65, 63, 63);
+  height: 17rem;
+}
+.childDiv{
+  background-color: #222;
+  height: 30rem;
+}
+.parentDiv{
+  color: white;
+  background-color: rgb(27, 26, 26);
+  height: 70rem;
+}
+
+
